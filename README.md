@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Thibeau Wouters 👋
 
 <!--
 **ThibeauWouters/ThibeauWouters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated with the Dutch National Institute for Subatomic Physics, [Nikhef](https://www.nikhef.nl/en/). In my research, I work on Bayesian data analysis tools for gravitational waves and multi-messenger astrophysics. Here's a sample of some packages I am currently working on/with:
+
+- [ripple](https://github.com/tedwards2412/ripple/): Differentiable gravitational waveforms with [JAX](https://github.com/google/jax) ![ripple](https://img.shields.io/github/stars/tedwards2412/ripple?style=social)
+- [fiesta](https://github.com/ThibeauWouters/fiesta/): Fast inference of electromagnetic signals with [JAX](https://github.com/google/jax) ![fiesta](https://img.shields.io/github/stars/ThibeauWouters/fiesta?style=social)
+- [jim](https://github.com/kazewong/jim/): Gravitational-wave data analysis tools in [JAX](https://github.com/google/jax) ![jim](https://img.shields.io/github/stars/kazewong/jim?style=social)
+- [NMMA](https://github.com/nuclear-multimessenger-astronomy/nmma/): A pythonic library for probing nuclear physics and cosmology with multimessenger analysis ![NMMA](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/nmma?style=social)
+
 
 ![ThibeauWouters's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibeauWouters&show_icons=true&theme=transparent)
