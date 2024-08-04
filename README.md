@@ -19,8 +19,8 @@ I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated 
 
 - [ripple](https://github.com/tedwards2412/ripple/): Differentiable gravitational waveforms with JAX ![ripple](https://img.shields.io/github/stars/tedwards2412/ripple?style=social)
 - [fiesta](https://github.com/ThibeauWouters/fiesta/): Fast inference of electromagnetic signals with JAX ![fiesta](https://img.shields.io/github/stars/ThibeauWouters/fiesta?style=social)
-- [jim](https://github.com/kazewong/jim/): Normalizing-flow enhanced sampling package for probabilistic inference in JAX ![jim](https://img.shields.io/github/stars/kazewong/jim?style=social)
-- [flowMC](https://github.com/kazewong/flowMC/): Gravitational-wave data analysis tools in JAX ![jim](https://img.shields.io/github/stars/kazewong/flowMC?style=social)
+- [jim](https://github.com/kazewong/jim/): Gravitational-wave data analysis tools in JAX ![jim](https://img.shields.io/github/stars/kazewong/jim?style=social)
+- [flowMC](https://github.com/kazewong/flowMC/): Normalizing-flow enhanced sampling package for probabilistic inference in JAX ![jim](https://img.shields.io/github/stars/kazewong/flowMC?style=social)
 - [jose](https://github.com/tsunhopang/jose/): A JAX-based TOV solver ![jose](https://img.shields.io/github/stars/tsunhopang/jose?style=social)
 - [NMMA](https://github.com/nuclear-multimessenger-astronomy/nmma/): A pythonic library for probing nuclear physics and cosmology with multimessenger analysis ![NMMA](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/nmma?style=social)
 
