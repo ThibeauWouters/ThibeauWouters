@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated with the Dutch National Institute for Subatomic Physics, [Nikhef](https://www.nikhef.nl/en/). In my research, I work on Bayesian data analysis tools for gravitational waves and multi-messenger astrophysics, trying to build fun applications with [JAX](https://github.com/google/jax). Here's a sample of some packages I am currently working on/with:
+I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated with the Dutch National Institute for Subatomic Physics, [Nikhef](https://www.nikhef.nl/en/). In my research, I work on Bayesian data analysis tools for gravitational waves and multi-messenger astrophysics, building fun applications with [JAX](https://github.com/google/jax). Here's a sample of some packages I am currently working on/with:
 
 - [ripple](https://github.com/tedwards2412/ripple/): Differentiable gravitational waveforms with JAX ![ripple](https://img.shields.io/github/stars/tedwards2412/ripple?style=social)
 - [fiesta](https://github.com/ThibeauWouters/fiesta/): Fast inference of electromagnetic signals with JAX ![fiesta](https://img.shields.io/github/stars/ThibeauWouters/fiesta?style=social)
