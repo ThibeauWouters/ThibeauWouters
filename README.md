@@ -26,4 +26,4 @@ I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated 
 
 
 
-![ThibeauWouters's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibeauWouters&show_icons=true&theme=transparent)
+![ThibeauWouters's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibeauWouters&show_icons=true&theme=transparent&include_all_commits=false)
