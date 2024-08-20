@@ -25,5 +25,6 @@ I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated 
 - [NMMA](https://github.com/nuclear-multimessenger-astronomy/nmma/): A pythonic library for probing nuclear physics and cosmology with multimessenger analysis ![NMMA](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/nmma?style=social)
 
 
-
+<!--
 ![ThibeauWouters's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibeauWouters&show_icons=true&theme=transparent&include_all_commits=true)
+-->
