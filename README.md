@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated with the Dutch National Institute for Subatomic Physics, [Nikhef](https://www.nikhef.nl/en/). In my research, I work on Bayesian data analysis tools for gravitational waves and multi-messenger astrophysics, building fun applications with [JAX](https://github.com/google/jax). Here's a sample of some packages I am currently working on/with:
+I am a PhD student at [Utrecht University](https://www.uu.nl/en) and affiliated with the Dutch National Institute for Subatomic Physics, [Nikhef](https://www.nikhef.nl/en/).
+In my research, I work on Bayesian data analysis tools for gravitational waves and multi-messenger astrophysics.
+In particular, I focus on robustly inferring the equation of state of neutron stars from nuclear physics and, e.g., gravitational waves emitted by binary neutron star mergers.
+I build a lot of software on top of [JAX](https://github.com/jax-ml/jax/) and like to run code on GPUs.
 
+Here is a list of packages I often contribute to
+- [jester](https://github.com/nuclear-multimessenger-astronomy/jester/): A JAX-based package for ![jester](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/jester?style=social)
+- [fiestaEM](https://github.com/nuclear-multimessenger-astronomy/fiestaEM/): Fast inference of electromagnetic signals and transients with JAX ![fiestaEM](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/fiestaEM?style=social)
 - [ripple](https://github.com/tedwards2412/ripple/): Differentiable gravitational waveforms with JAX ![ripple](https://img.shields.io/github/stars/tedwards2412/ripple?style=social)
-- [fiesta](https://github.com/ThibeauWouters/fiesta/): Fast inference of electromagnetic signals and transients with JAX ![fiesta](https://img.shields.io/github/stars/ThibeauWouters/fiesta?style=social)
 - [jim](https://github.com/kazewong/jim/): Gravitational-wave data analysis tools in JAX ![jim](https://img.shields.io/github/stars/kazewong/jim?style=social)
-- [flowMC](https://github.com/kazewong/flowMC/): Normalizing-flow enhanced sampling package for probabilistic inference in JAX ![jim](https://img.shields.io/github/stars/kazewong/flowMC?style=social)
-- [jose](https://github.com/tsunhopang/jose/): A JAX-based TOV solver ![jose](https://img.shields.io/github/stars/tsunhopang/jose?style=social)
 - [NMMA](https://github.com/nuclear-multimessenger-astronomy/nmma/): A pythonic library for probing nuclear physics and cosmology with multimessenger analysis ![NMMA](https://img.shields.io/github/stars/nuclear-multimessenger-astronomy/nmma?style=social)
 
 
